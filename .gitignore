@@ -1,0 +1,10 @@
+.idea/
+__history/
+Debug/
+*.dproj
+*.dproj.local
+*.identcache
+*.exe
+*.res
+.DS_Store
+*.iml
