@@ -1,0 +1,2 @@
+<user>Anonymous</user><password>Guest</password>
+<user>admin</user><password>1234</password>
