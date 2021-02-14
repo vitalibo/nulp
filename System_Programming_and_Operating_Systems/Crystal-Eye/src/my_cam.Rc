@@ -1,0 +1,81 @@
+; my_cam.rc
+; Copyright (c) 2011 by Боярський Віталій
+
+#define ID_ICON     5000
+#define ID_LOGO     5001
+#define ID_REC_OFF  5002
+#define ID_REC_ON   5003
+    
+ID_ICON     ICON    DISCARDABLE "Res\ICON.ICO"
+ID_LOGO     BITMAP  DISCARDABLE "Res\LOGO.BMP"
+ID_REC_ON   BITMAP  DISCARDABLE "Res\REC_ON.BMP"
+ID_REC_OFF  BITMAP  DISCARDABLE "Res\REC_OFF.BMP"
+
+#define IDD_DLG_CLICK           10000
+#define IDD_DLG_BUT_CLICK       10001
+#define IDD_DLG_BUT_OPEN        10002
+#define IDD_DLG_BUT_BUF         10003
+    
+IDD_DLG_CLICK DIALOGEX 10,10,195,31
+CAPTION "Click Images"
+FONT 8,"MS Sans Serif",0,0,0
+LANGUAGE 9,1
+STYLE NOT 0x10000000|0x80080880
+EXSTYLE 0x00010000
+BEGIN
+    CONTROL "Click",IDD_DLG_BUT_CLICK,"Button",0x50010000,3,3,50,25
+    CONTROL "Copy",IDD_DLG_BUT_BUF,"Button",0x50010000,54,3,50,25
+    CONTROL "Open",IDD_DLG_BUT_OPEN,"Button",0x50010000,141,3,50,25
+END
+    
+#define IDD_DLG_RECORD          20000
+#define IDD_DLG_BUT_RECORD      20001
+#define IDD_DLG_BUT_STOP        20002
+#define IDD_DLG_BUT_PLAY        20003
+    
+IDD_DLG_RECORD DIALOGEX 10,10,205,31
+CAPTION "Record Video"
+FONT 8,"MS Sans Serif",0,0,0
+LANGUAGE 9,1
+STYLE NOT 0x10000000|0x80080880
+EXSTYLE 0x00010000
+BEGIN
+    CONTROL "Record",IDD_DLG_BUT_RECORD,"Button",0x50010000,3,3,50,25
+    CONTROL "Stop",IDD_DLG_BUT_STOP,"Button",0x50010000,54,3,50,25
+    CONTROL "Play",IDD_DLG_BUT_PLAY,"Button",0x50010000,150,3,50,25
+END
+    
+#define IDD_DLG_ABOUT         30000
+#define IDD_DLG_BUT_OK         30001
+    
+IDD_DLG_ABOUT DIALOGEX 10,10,240,230
+CAPTION "About"
+FONT 8,"MS Sans Serif",0,0,0
+LANGUAGE 9,1
+STYLE NOT 0x10000000|0x80080880
+EXSTYLE 0x00010000
+BEGIN
+    LTEXT "Crystal Eye\nVersion 2.0 build 110530\nCopyright (c) 2011 by Боярський Віталій",-1,90,20,150,30
+    LTEXT "Міністерство освіти і науки України",-1,60,70,180,10
+    LTEXT "Ніціональний університет Львівська політехніка",-1,40,80,200,10
+    LTEXT "Кафедра автоматизованих систем управління",-1,43,90,200,10
+    LTEXT "Курсова робота",-1,98,110,200,10
+    LTEXT "Web-камера. Детектор руху",-1,75,120,200,10
+    LTEXT "виконав :",-1,140,140,200,10
+    LTEXT "Боярський В.В.",-1,140,160,200,10
+    LTEXT "ст. групи КН-20",-1,140,150,200,10
+    LTEXT "перевірив :",-1,140,170,200,10
+    LTEXT "Зербіно Д.Д.",-1,140,180,200,10
+    CONTROL "OK",IDD_DLG_BUT_OK,"Button",0x50010000,95,200,50,20
+END
+    
+#define IDM_CAP_DETECT         40000
+    
+IDM_CAP_DETECT DIALOGEX 10,10,195,31
+CAPTION "Detect"
+FONT 8,"MS Sans Serif",0,0,0
+LANGUAGE 9,1
+STYLE NOT 0x10000000|0x80080880
+EXSTYLE 0x00010000
+BEGIN
+END

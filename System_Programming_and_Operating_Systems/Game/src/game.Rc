@@ -1,0 +1,17 @@
+; game.rc
+; Copyright (c) 2011 by Боярський Віталій
+
+; BITMAP
+#define ID_RCBITMAP_00 400
+#define ID_RCBITMAP_01 401
+#define ID_RCBITMAP_02 402
+#define ID_RCBITMAP_03 403
+
+ID_RCBITMAP_00 BITMAP DISCARDABLE "Res\fon.bmp"
+ID_RCBITMAP_01 BITMAP DISCARDABLE "Res\slat.bmp"
+ID_RCBITMAP_02 BITMAP DISCARDABLE "Res\cubic.bmp"
+ID_RCBITMAP_03 BITMAP DISCARDABLE "Res\game_over.bmp"
+
+#define ID_RCICON_01 501
+
+ID_RCICON_01 ICON DISCARDABLE "Res\exe_file.ico"

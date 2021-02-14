@@ -4,6 +4,11 @@
 
 - [3D Objects](Problem-Oriented_Programming/3D_Objects) - construction images of three-dimensional objects;
 
+### System Programming and Operating Systems
+
+- [Crystal Eye](System_Programming_and_Operating_Systems/Crystal-Eye) - simple motion detector;
+- [Game](System_Programming_and_Operating_Systems/Game) - game where need catch balls;
+
 ### Object-Oriented Programming
 
 - [Fire](Object-Oriented_Programming/Fire) - animation of candle fire;
