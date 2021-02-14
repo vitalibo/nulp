@@ -1,8 +1,12 @@
 # Lviv Polytechnic National University - Archive
 
+### Problem-Oriented Programming
+
+- [3D Objects](Problem-Oriented_Programming/3D_Objects) - construction images of three-dimensional objects;
+
 ### Object-Oriented Programming
 
-- [Fire](Object-Oriented_Programming/Fire) - animation of candle fire
+- [Fire](Object-Oriented_Programming/Fire) - animation of candle fire;
 
 ### Computer Graphics
 
