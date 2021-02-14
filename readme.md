@@ -1,4 +1,6 @@
-# Lviv Polytechnic National University - Archive
+# Lviv Polytechnic National University
+
+My works that were created while studying at National University Lviv Polytechnic.
 
 ### Problem-Oriented Programming
 
