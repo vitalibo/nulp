@@ -17,6 +17,10 @@
 
 - [FTP Server](Computer_Networks/FTP_Server) - simple ftp server;
 
+### Design Software Applications
+
+- [Pharmacy](Design_Software_Applications/Pharmacy) - pharmacy erp system;
+
 ### Computer Graphics
 
 - Labs

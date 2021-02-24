@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_Xk30skJqEeKiXIX3GqCoww" name="LAB01">
+  <eAnnotations xmi:id="_Xk4bwEJqEeKiXIX3GqCoww" source="uml2.diagrams">
+    <contents xmi:type="notation:Diagram" xmi:id="_ZEhpkEJqEeKiXIX3GqCoww" type="Freeform" name="FreeformDiagram1">
+      <children xmi:id="_btUQwEJqEeKiXIX3GqCoww" type="oval">
+        <children xmi:id="_btWF8EJqEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_btWtAEJqEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_btUQwUJqEeKiXIX3GqCoww" fontName="Segoe UI" description="Система" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_btUQwkJqEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_btUQw0JqEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_btUQxEJqEeKiXIX3GqCoww" x="13200" y="6864" width="2459"/>
+      </children>
+      <children xmi:id="_d2068EJqEeKiXIX3GqCoww" type="rectangle">
+        <children xmi:id="_d21iAEJqEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_d21iAUJqEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_d2068UJqEeKiXIX3GqCoww" fontName="Segoe UI" description="Постачальник" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_d2068kJqEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_d20680JqEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d2069EJqEeKiXIX3GqCoww" x="15284" y="9372" width="2935"/>
+      </children>
+      <children xmi:id="_hQZe0EJqEeKiXIX3GqCoww" type="rectangle">
+        <children xmi:id="_hQZe0UJqEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_hQZe0kJqEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_hQZe00JqEeKiXIX3GqCoww" fontName="Segoe UI" description="Клієнт" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_hQZe1EJqEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_hQZe1UJqEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hQZe1kJqEeKiXIX3GqCoww" x="11060" y="9372" width="2935"/>
+      </children>
+      <children xmi:id="_hbkNAEJqEeKiXIX3GqCoww" type="rectangle">
+        <children xmi:id="_hbkNAUJqEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_hbkNAkJqEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_hbkNA0JqEeKiXIX3GqCoww" fontName="Segoe UI" description="Завідувач аптеки" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_hbkNBEJqEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_hbkNBUJqEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hbkNBkJqEeKiXIX3GqCoww" x="8552" y="6864" width="2935"/>
+      </children>
+      <children xmi:id="_hbkNB0JqEeKiXIX3GqCoww" type="rectangle">
+        <children xmi:id="_hbkNCEJqEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_hbkNCUJqEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_hbkNCkJqEeKiXIX3GqCoww" fontName="Segoe UI" description="Аптекар" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_hbkNC0JqEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_hbkNDEJqEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hbkNDUJqEeKiXIX3GqCoww" x="13040" y="4488" width="2935"/>
+      </children>
+      <children xmi:id="_h_5CEEJqEeKiXIX3GqCoww" type="rectangle">
+        <children xmi:id="_h_5CEUJqEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_h_5CEkJqEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_h_5CE0JqEeKiXIX3GqCoww" fontName="Segoe UI" description="Адміністратор" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_h_5CFEJqEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_h_5CFUJqEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_5CFkJqEeKiXIX3GqCoww" x="17396" y="6864" width="2935"/>
+      </children>
+      <children xmi:id="_x_00EEJrEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_x_1bIEJrEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_x_2CMEJrEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_x_00EUJrEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на реєстрацію&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на відбір ліків за критеріями&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на детальну інформацію&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на покупку&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на перегляд звітності покупок&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_x_00EkJrEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_x_00E0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x_00FEJrEeKiXIX3GqCoww" x="7787" y="11088" width="6242"/>
+      </children>
+      <children xmi:id="_0EbwIEJrEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_0EcXMEJrEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_0EcXMUJrEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_0EbwIUJrEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат сворення нового клієнта&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд списку ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд інформації про медикамент&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат покупки&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Стан усіх покупок клієнта&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_0EbwIkJrEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_0EbwI0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0EbwJEJrEeKiXIX3GqCoww" x="1187" y="10032" width="6331"/>
+      </children>
+      <children xmi:id="_DCRBYEJsEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_DCRocEJsEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_DCSPgEJsEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_DCRBYUJsEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на реєстрацію&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на перегляд замовлень&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на перегляд звітності поставок&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на перегляд контактної інформації&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_DCRBYkJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_DCRBY0JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DCRBZEJsEeKiXIX3GqCoww" x="15312" y="11088" height="3035"/>
+      </children>
+      <children xmi:id="_dKUvYEJsEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_dKVWcEJsEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_dKVWcUJsEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_dKUvYUJsEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Створення нового постачальника&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд списоку замовлень&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд звітністі поставок&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд контактної інформації&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_dKUvYkJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_dKUvY0JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dKUvZEJsEeKiXIX3GqCoww" x="20592" y="8184" width="5659"/>
+      </children>
+      <children xmi:id="_qB2bcEJsEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_qB3CgEJsEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_qB3CgUJsEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_qB2bcUJsEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на список доступних ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на відбір ліків за критеріями&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на детальну інформації&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на продаж ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на повернення ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на прийом замовлених ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на замовлення припаратів&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_qB2bckJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_qB2bc0JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qB2bdEJsEeKiXIX3GqCoww" x="14652" y="264"/>
+      </children>
+      <children xmi:id="_vaTt4EJsEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_vaWKIEJsEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_vaWxMEJsEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_vaTt4UJsEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд списку ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Відображення списку обраних припаратів&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд інформації про медикамент&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат покупки&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot;>&lt;font face=&quot;Calibri&quot;>Результат повернення&lt;span&#xD;&#xA;                style=&quot;mso-spacerun: yes&quot;>&amp;nbsp;&lt;/span>&lt;/font>&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Добавляння препарату&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Сворення нового замовленя&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_vaUU8EJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_vaUU8UJsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vaUU8kJsEeKiXIX3GqCoww" x="7656" y="264"/>
+      </children>
+      <children xmi:id="_5EFrkEJsEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_5EGSoEJsEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_5EGSoUJsEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_5EFrkUJsEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на список доступних ліків в системі&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на редагування інформації препарату&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на редагування списку персоналу&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на редагування замовлень&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на отримання бухгалтерської звітності&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_5EFrkkJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_5EFrk0JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5EFrlEJsEeKiXIX3GqCoww" x="1179" y="1848" width="6306"/>
+      </children>
+      <children xmi:id="_76U44EJsEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_76Vf8EJsEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_76WHAEJsEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_76U44UJsEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Перегляд списку ліків&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Редагування інформація про препарат&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Редагування список персоналу&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Редагування список замовлень&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Бухгалтерська звітність&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_76U44kJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_76U440JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_76U45EJsEeKiXIX3GqCoww" x="1188" y="6732" width="6330"/>
+      </children>
+      <children xmi:id="_F2wFwEJtEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_F2ws0EJtEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_F2xT4EJtEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_F2wFwUJtEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на реєстрацію працівника&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на редагування бази даних&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на редагування списку персоналу&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на перегляд звітності&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Запит на зміну інтерфейсу&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_F2wFwkJtEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_F2wFw0JtEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F2wFxEJtEeKiXIX3GqCoww" x="20592" y="4356" width="5659"/>
+      </children>
+      <children xmi:id="_QxPdYEJtEeKiXIX3GqCoww" type="Note">
+        <children xmi:id="_QxQEcEJtEeKiXIX3GqCoww" type="DiagramName">
+          <element xsi:nil="true"/>
+        </children>
+        <children xmi:id="_QxQrgEJtEeKiXIX3GqCoww" type="Description">
+          <element xsi:nil="true"/>
+        </children>
+        <styles xmi:type="notation:ShapeStyle" xmi:id="_QxPdYUJtEeKiXIX3GqCoww" fontName="Segoe UI" description="&lt;table style=&quot;WIDTH: 173pt; BORDER-COLLAPSE: collapse&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;230&quot;>&#xD;&#xA;    &lt;colgroup>&#xD;&#xA;        &lt;col style=&quot;WIDTH: 173pt; mso-width-source: userset; mso-width-alt: 8411&quot; width=&quot;230&quot; />&#xD;&#xA;    &lt;/colgroup>&#xD;&#xA;    &lt;tbody>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; WIDTH: 173pt; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot; width=&quot;230&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Результат логування&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Створення нового працівника&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Змінена база даних&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Відредагований список персоналу&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Звітність системи&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;        &lt;tr style=&quot;HEIGHT: 15pt&quot; height=&quot;20&quot;>&#xD;&#xA;            &lt;td&#xD;&#xA;            style=&quot;BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; BACKGROUND-COLOR: transparent; HEIGHT: 15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0&quot;&#xD;&#xA;             height=&quot;20&quot;>&#xD;&#xA;                &lt;font size=&quot;3&quot; face=&quot;Calibri&quot;>Відредагований інтерфейс&lt;/font>&#xD;&#xA;            &lt;/td>&#xD;&#xA;        &lt;/tr>&#xD;&#xA;    &lt;/tbody>&#xD;&#xA;&lt;/table>" fillColor="13369343" lineColor="6737151" lineWidth="1"/>
+        <styles xmi:type="notation:TextStyle" xmi:id="_QxPdYkJtEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_QxPdY0JtEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QxPdZEJtEeKiXIX3GqCoww" x="20592" y="1056" width="5668"/>
+      </children>
+      <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_ZEhpkUJqEeKiXIX3GqCoww"/>
+      <element xsi:nil="true"/>
+      <edges xmi:id="_B1044EJrEeKiXIX3GqCoww" type="line" source="_btUQwEJqEeKiXIX3GqCoww" target="_hbkNB0JqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_B1044UJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_B1044kJrEeKiXIX3GqCoww" arrowTarget="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_B10440JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_B1045EJrEeKiXIX3GqCoww" points="[1, -5, 1, 35]$[1, -40, 1, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B15KUEJrEeKiXIX3GqCoww" id="(0.36600244,0.120272316)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_B15KUUJrEeKiXIX3GqCoww" id="(0.36115843,1.0)"/>
+      </edges>
+      <edges xmi:id="_EILWAEJrEeKiXIX3GqCoww" type="line" source="_btUQwEJqEeKiXIX3GqCoww" target="_hbkNB0JqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_EILWAUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_EILWAkJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_EILWA0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EILWBEJrEeKiXIX3GqCoww" points="[1, -9, 1, 40]$[1, -49, 1, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EINyQEJrEeKiXIX3GqCoww" id="(0.5274502,0.20045386)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_EINyQUJrEeKiXIX3GqCoww" id="(0.4964225,1.0)"/>
+      </edges>
+      <edges xmi:id="_HGZaoEJrEeKiXIX3GqCoww" type="line" source="_btUQwEJqEeKiXIX3GqCoww" target="_h_5CEEJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_HGZaoUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_HGZaokJrEeKiXIX3GqCoww" arrowTarget="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_HGZao0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HGZapEJrEeKiXIX3GqCoww" points="[1, -8, -82, -8]$[83, 1, 0, 1]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HGb24EJrEeKiXIX3GqCoww" id="(0.93615294,0.34871408)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HGb24UJrEeKiXIX3GqCoww" id="(0.030664396,0.38880485)"/>
+      </edges>
+      <edges xmi:id="_H65ZsEJrEeKiXIX3GqCoww" type="line" source="_h_5CEEJqEeKiXIX3GqCoww" target="_btUQwEJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_H65ZsUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_H65ZskJrEeKiXIX3GqCoww" arrowTarget="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_H65Zs0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_H65ZtEJrEeKiXIX3GqCoww" points="[0, -2, 75, 1]$[-74, 5, 1, 8]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H6718EJrEeKiXIX3GqCoww" id="(0.048722316,0.6490166)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H6718UJrEeKiXIX3GqCoww" id="(0.90402603,0.6490166)"/>
+      </edges>
+      <edges xmi:id="_IaJhgEJrEeKiXIX3GqCoww" type="line" source="_btUQwEJqEeKiXIX3GqCoww" target="_hbkNAEJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_IaJhgUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_IaJhgkJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_IaJhg0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_IaJhhEJrEeKiXIX3GqCoww" points="[1, -13, 85, -13]$[-84, 1, 0, 1]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IaL9wEJrEeKiXIX3GqCoww" id="(0.2151281,0.36838123)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_IaL9wUJrEeKiXIX3GqCoww" id="(1.0,0.36838123)"/>
+      </edges>
+      <edges xmi:id="_I0vy0EJrEeKiXIX3GqCoww" type="line" source="_hbkNAEJqEeKiXIX3GqCoww" target="_btUQwEJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_I0vy0UJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_I0vy0kJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_I0vy00JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_I0vy1EJrEeKiXIX3GqCoww" points="[0, 0, -75, 1]$[76, 8, 1, 9]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I0yPEEJrEeKiXIX3GqCoww" id="(1.0,0.6686838)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_I0yPEUJrEeKiXIX3GqCoww" id="(0.11834079,0.6490166)"/>
+      </edges>
+      <edges xmi:id="_JbIdYEJrEeKiXIX3GqCoww" type="line" source="_hQZe0EJqEeKiXIX3GqCoww" target="_btUQwEJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_JbIdYUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_JbIdYkJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_JbIdY0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JbIdZEJrEeKiXIX3GqCoww" points="[0, 0, -123, 85]$[99, -64, -24, 21]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JbK5oEJrEeKiXIX3GqCoww" id="(0.4136286,0.09228442)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XI1jgEJrEeKiXIX3GqCoww" id="(0.20455469,0.84871405)"/>
+      </edges>
+      <edges xmi:id="_LZDioEJrEeKiXIX3GqCoww" type="line" source="_btUQwEJqEeKiXIX3GqCoww" target="_hQZe0EJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_LZDioUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_LZEJsEJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_LZEJsUJrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LZEJskJrEeKiXIX3GqCoww" points="[1, 22, 32, -64]$[-31, 86, 0, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LZF-4EJrEeKiXIX3GqCoww" id="(0.34444895,0.9689864)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LZF-4UJrEeKiXIX3GqCoww" id="(0.62930155,0.012859304)"/>
+      </edges>
+      <edges xmi:id="_M29rEEJrEeKiXIX3GqCoww" type="line" source="_btUQwEJqEeKiXIX3GqCoww" target="_d2068EJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_M29rEUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_M29rEkJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_M29rE0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_M29rFEJrEeKiXIX3GqCoww" points="[1, 8, -46, -61]$[47, 69, 0, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M3AHUEJrEeKiXIX3GqCoww" id="(0.7531517,0.9485628)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_M3AHUUJrEeKiXIX3GqCoww" id="(0.28211245,0.09304085)"/>
+      </edges>
+      <edges xmi:id="_Nd69YEJrEeKiXIX3GqCoww" type="line" source="_d2068EJqEeKiXIX3GqCoww" target="_btUQwEJqEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_Nd69YUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_Nd69YkJrEeKiXIX3GqCoww" arrowSource="OpenArrow"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_Nd69Y0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Nd69ZEJrEeKiXIX3GqCoww" points="[0, 0, 71, 72]$[-70, -67, 1, 5]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Nd8ykEJrEeKiXIX3GqCoww" id="(0.4173765,0.0)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Nd8ykUJrEeKiXIX3GqCoww" id="(0.849939,0.7685325)"/>
+      </edges>
+      <edges xmi:id="_x_6ToEJrEeKiXIX3GqCoww" type="NoteAttachment" source="_x_00EEJrEeKiXIX3GqCoww" target="_LZDioEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_x_6ToUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_x_6TokJrEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_x_6To0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x_66sEJrEeKiXIX3GqCoww" points="[3120, 0, 651, 3808]$[3459, 0, 990, 3808]$[3459, -3808, 990, 0]$[2516, -3808, 47, 0]"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_x_7hwEJrEeKiXIX3GqCoww" id="(0.40625,0.5515306)"/>
+      </edges>
+      <edges xmi:id="_0EgooEJrEeKiXIX3GqCoww" type="NoteAttachment" source="_0EbwIEJrEeKiXIX3GqCoww" target="_JbIdYEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_0EgooUJrEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_0EgookJrEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_0Egoo0JrEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_0EgopEJrEeKiXIX3GqCoww" points="[-8, 5, -5612, 1426]$[3017, -1421, -2587, 0]$[5560, -1421, -44, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ZYBicEJsEeKiXIX3GqCoww" id="(0.9783605,0.058290154)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0EhPsEJrEeKiXIX3GqCoww" id="(0.4707938,0.5636451)"/>
+      </edges>
+      <edges xmi:id="_DCV54EJsEeKiXIX3GqCoww" type="NoteAttachment" source="_DCRBYEJsEeKiXIX3GqCoww" target="_M29rEEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_DCV54UJsEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_DCV54kJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_DCV540JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DCV55EJsEeKiXIX3GqCoww" points="[-59, 0, -247, 3801]$[-343, 0, -531, 3801]$[-343, -3801, -531, 0]$[179, -3801, -9, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UnWowEJsEeKiXIX3GqCoww" id="(0.009146341,0.48731467)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DCWg8EJsEeKiXIX3GqCoww" id="(0.5322862,0.5238569)"/>
+      </edges>
+      <edges xmi:id="_dKZn4EJsEeKiXIX3GqCoww" type="NoteAttachment" source="_dKUvYEJsEeKiXIX3GqCoww" target="_Nd69YEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_dKZn4UJsEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_dKZn4kJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_dKZn40JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_dKZn5EJsEeKiXIX3GqCoww" points="[0, 0, -624, -354]$[623, 354, -1, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gS2mkEJsEeKiXIX3GqCoww" id="(0.0081803305,0.2128529)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_dKaO8EJsEeKiXIX3GqCoww" id="(0.5533263,0.5302045)"/>
+      </edges>
+      <edges xmi:id="_qB77AEJsEeKiXIX3GqCoww" type="NoteAttachment" source="_qB2bcEJsEeKiXIX3GqCoww" target="_EILWAEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_qB77AUJsEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_qB77AkJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_qB77A0JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qB77BEJsEeKiXIX3GqCoww" points="[0, 16, 2461, -2170]$[0, 2186, 2461, 0]$[-2461, 2186, 0, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vA-V8EJuEeKiXIX3GqCoww" id="(0.41144997,0.9956186)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qB8iEEJsEeKiXIX3GqCoww" id="(0.47700632,0.47714603)"/>
+      </edges>
+      <edges xmi:id="_vabCoEJsEeKiXIX3GqCoww" type="NoteAttachment" source="_vaTt4EJsEeKiXIX3GqCoww" target="_B1044EJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_vabCoUJsEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_vabCokJsEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_vabCo0JsEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vabCpEJsEeKiXIX3GqCoww" points="[0, 42, -2301, -2175]$[0, 2217, -2301, 0]$[2301, 2217, 0, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_uEHFEEJuEeKiXIX3GqCoww" id="(0.61924684,0.9889175)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vabpsEJsEeKiXIX3GqCoww" id="(0.50135255,0.47110623)"/>
+      </edges>
+      <edges xmi:id="_QxU88EJtEeKiXIX3GqCoww" type="NoteAttachment" source="_QxPdYEJtEeKiXIX3GqCoww" target="_HGZaoEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_QxU88UJtEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_QxU88kJtEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_QxU880JtEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QxU89EJtEeKiXIX3GqCoww" points="[-73, 63, 4082, -3504]$[-4154, 3567, 1, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_T9k2gEJtEeKiXIX3GqCoww" id="(0.021877205,0.9517487)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QxVkAEJtEeKiXIX3GqCoww" id="(0.49920255,0.5022543)"/>
+      </edges>
+      <edges xmi:id="_DhOjYEJuEeKiXIX3GqCoww" type="NoteAttachment" source="_76U44EJsEeKiXIX3GqCoww" target="_I0vy0EJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_DhOjYUJuEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_DhOjYkJuEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_DhOjY0JuEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DhOjZEJuEeKiXIX3GqCoww" points="[-1, 0, -5115, 798]$[5114, 0, 0, 798]$[5114, -798, 0, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DhQ_oEJuEeKiXIX3GqCoww" id="(1.0,0.5786917)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DhQ_oUJuEeKiXIX3GqCoww" id="(0.56738436,0.47971144)"/>
+      </edges>
+      <edges xmi:id="_HKrWUEJuEeKiXIX3GqCoww" type="NoteAttachment" source="_5EFrkEJsEeKiXIX3GqCoww" target="_IaJhgEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_HKrWUUJuEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_HKrWUkJuEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_HKrWU0JuEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_HKrWVEJuEeKiXIX3GqCoww" points="[23, -3, -4986, -1745]$[1640, -212, -3369, -1954]$[5008, 1742, -1, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HKtykEJuEeKiXIX3GqCoww" id="(0.98350775,0.70869005)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_HKtykUJuEeKiXIX3GqCoww" id="(0.55951905,0.47880974)"/>
+      </edges>
+      <edges xmi:id="_K2KwoEJuEeKiXIX3GqCoww" type="NoteAttachment" source="_F2wFwEJtEeKiXIX3GqCoww" target="_H65ZsEJrEeKiXIX3GqCoww">
+        <styles xmi:type="notation:ConnectorStyle" xmi:id="_K2KwoUJuEeKiXIX3GqCoww" lineWidth="1"/>
+        <styles xmi:type="notation:ArrowStyle" xmi:id="_K2KwokJuEeKiXIX3GqCoww"/>
+        <styles xmi:type="notation:LineTypeStyle" xmi:id="_K2Kwo0JuEeKiXIX3GqCoww"/>
+        <element xsi:nil="true"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_K2KwpEJuEeKiXIX3GqCoww" points="[-71, 106, 3879, 56]$[-608, 901, 3342, 851]$[-3950, 901, 0, 851]$[-3950, 50, 0, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_K2NM4EJuEeKiXIX3GqCoww" id="(0.012546387,0.95177954)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_K2NM4UJuEeKiXIX3GqCoww" id="(0.6190288,0.57529306)"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_Xk4bwUJqEeKiXIX3GqCoww">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <profileApplication xmi:id="_Xk4bwkJqEeKiXIX3GqCoww">
+    <eAnnotations xmi:id="_Xk4bw0JqEeKiXIX3GqCoww" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_Xk4bxEJqEeKiXIX3GqCoww">
+    <eAnnotations xmi:id="_Xk4bxUJqEeKiXIX3GqCoww" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_IN8k8MmBEdqBcN1R6EvWUw?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_Xk4bxkJqEeKiXIX3GqCoww">
+    <eAnnotations xmi:id="_Xk4bx0JqEeKiXIX3GqCoww" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
